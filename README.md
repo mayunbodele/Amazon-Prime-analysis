@@ -1,5 +1,7 @@
 *Amazon Prime Sales Analysis Power BI Project*
 
+![Amazon Sales Dashboard](https://github.com/mayunbodele/Amazon-Prime-analysis/blob/main/Amazon%20prime%20screenshot.png)
+
 Overview
 
 This project aims to analyze Amazon Prime sales data using Power BI to uncover insights and trends. The report is designed to help stakeholders make informed decisions based on sales performance, customer behavior, and product trends.
